@@ -8,5 +8,6 @@ public static void main(String[] args) {
     String str = uuid.toString(); 
     String uuidStr=str.replace("-", "");
     System.out.println(uuidStr);
+    System.out.println(123);
 }
 }
